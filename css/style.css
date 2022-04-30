@@ -549,7 +549,7 @@ header
 banner
 -------------------------------*/
 #section-banner {
-  background: url("../images/header.jpg") 50% 10%;
+  background: url("../images/header2.jpg") 50% 10%;
   background-size: cover;
 }
 
@@ -558,6 +558,8 @@ banner
   padding-right: 00px;
   padding-bottom: 50px;
   text-align: center;
+  background: rgb(0 0 0 / 50%);
+  
 }
 .banner-area h6 {
   margin-bottom: 20px;
