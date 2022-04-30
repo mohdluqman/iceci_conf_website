@@ -2546,3 +2546,6 @@ font-weight: bold;
 .nav-item :hover{
   background-color: thistle;
 }
+.newLogo{
+  margin-left: 10px;
+}
