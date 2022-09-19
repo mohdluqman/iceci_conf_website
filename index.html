@@ -2645,6 +2645,10 @@
 			alert("Fill all fields.");	   
 		}else{
 			event.preventDefault()
+			$("#name").val("")
+			$("#email").val("")
+			$("#msg_subject").val("")
+			$("#message").val("")
 			alert("The Form has been Submitted.");
 		}
 	});
