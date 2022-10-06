@@ -1,0 +1,33 @@
+<section id="committee-section" class="section">
+	<div class="row m-10">
+		<div class="col-md-12 col-sm-12 col-lg-12 col-xl-12">
+			<div class="international-committee card-area" id="organizingCommittee">
+				<div class="com-area">
+					<p class="page-title text-center  text-info"> Organizing Committee </p>
+				</div>
+				<hr>
+
+				<div class="container">
+					<div class="row text-center text-md-left">
+						<div class="col-md-3 offset-md-1 col-lg-4 col-sm-12 col-xl-3">
+							<p class="side-title"> Chief Patron </p>
+						</div>
+						<div class="col-md-8 col-lg-8 col-sm-12 col-xl-7">
+							<div class="row p-2 bg-white border rounded mt-2">
+								<div class="col-md-3 mt-1">
+									<img class="img-fluid img-responsive rounded" src="images/persons/tariqMansoor.jpg">
+								</div>
+								<div class="col-md-6 mt-1 text-md-left text-sm-center">
+									<h5>Prof. (Dr.) Tariq Mansoor</h5>
+									<div class="mt-1 mb-1 spec-1"><span>Honourable Vice-Chancellor</span></div>
+									<div class="mt-1 mb-1 spec-1"><span>Aligarh Muslim University, Aligarh </span></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
